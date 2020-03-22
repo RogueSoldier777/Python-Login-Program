@@ -1,12 +1,8 @@
 # Simple Python Login/Register Program
 
-================
-
 ## Prerequisites
 
 [Python 3](https://www.python.org/downloads)
-
-================
 
 ## To use:
 
